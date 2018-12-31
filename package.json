@@ -1,0 +1,12 @@
+{
+  "name": "module1assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "userdatacsvtojson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rodney Owen",
+  "license": "ISC"
+}
